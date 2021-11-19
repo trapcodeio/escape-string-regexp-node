@@ -4,4 +4,6 @@ yarn.lock
 tsconfig.json
 
 *.ts
+test.js
+test.d.ts
 !*.d.ts

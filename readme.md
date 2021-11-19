@@ -1,6 +1,6 @@
 # escape-string-regexp-node
 
-> Escape RegExp special characters
+> Escape RegExp special characters in Node.js
 
 Written originally by [sindresorhus (escape-string-regexp)](https://github.com/sindresorhus/escape-string-regexp)
 
