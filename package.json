@@ -1,6 +1,6 @@
 {
   "name": "escape-string-regexp-node",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Escape Regexp string function for nodejs",
   "main": "index.js",
   "repository": "https://github.com/trapcodeio/escape-string-regexp-node.git",
